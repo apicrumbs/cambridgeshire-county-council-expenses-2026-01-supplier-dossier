@@ -5,7 +5,7 @@
 - recipe_id: "transparency/expenses"
 - recipe_version: "1.0.1"
 - generated_by: "ApiCrumbs_Foundry_v2"
-- last_updated: "2026-04-02T22:35:17+02:00"
+- last_updated: "2026-04-02T22:41:36+02:00"
 - status: "Grounded_Truth"
 - schema: "v2.0-Alpha"
 ---
@@ -80,7 +80,9 @@
 
 | Date | Volume | Total Paid | Intensity |
 | :--- | :--- | :--- | :--- |
-| `N/A` | 40 | £0.00 | `     ` |
+|  `02-Jan-26` | 31 | £723,917.05 | `*****` |
+| `07-Jan-26` | 8 | £211,052.58 | `*    ` |
+| `16-Jan-26` | 1 | £37,464.18 | `     ` |
 ---
 - [CRUMB: transparency/expensessupplierdailybreakdown]
 - [SOURCE: CambsPayments2026-01.csv ]
