@@ -1,0 +1,78 @@
+﻿---
+- title: "Cambridgeshire County Council - Expenses - January 2026 - Supplier Dossier: DJ DAVISON & SONS LTD"
+- entity_id: "DJ DAVISON & SONS LTD"
+- category: "Transparency"
+- recipe_id: "transparency/expenses"
+- recipe_version: "1.0.1"
+- generated_by: "ApiCrumbs_Foundry_v2"
+- last_updated: "2026-04-04T23:10:08+02:00"
+- status: "Grounded_Truth"
+- schema: "v2.0-Alpha"
+---
+
+# TRANSPARENCY REGISTRY
+## TRAIL: DJ DAVISON & SONS LTD
+### GET /finance/supplier/financial-pulse
+- **Total Monthly Spend**: £3,354.00
+- **Invoice Frequency**: 4 payments processed
+- **Mean Transaction Value**: £838.50
+---
+- [CRUMB: transparency/expensessupplierfinancialpulse]
+- [SOURCE: CambsPayments2026-01.csv ]
+- [REF: Cambridgeshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://data.cambridgeshireinsight.org.uk/sites/default/files/CambsPayments2026-01.csv ]
+
+### GET /finance/supplier/fiscal-footprint-analysis
+- **Cumulative Spend**: £3,354.00
+- **Transaction Volume**: 4 Invoices
+- **Lead Department**: Highways Maintenance Cyclical Maintenance
+- **Departmental Reach**: Active in 1 distinct cost centres.
+---
+- [CRUMB: transparency/expensessuppliertotalspend]
+- [SOURCE: CambsPayments2026-01.csv ]
+- [REF: Cambridgeshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://data.cambridgeshireinsight.org.uk/sites/default/files/CambsPayments2026-01.csv ]
+
+### GET /finance/supplier/sector-mix
+**Portfolio Diversity:** Operates across **1** distinct departments.
+
+| Intensity | Department | Revenue | Weight |
+| :--- | :--- | :--- | :--- |
+| `*****` | Highways Maintenance Cyclical Maintenance | £3,354 | 100.0% |
+---
+- [CRUMB: transparency/expensessuppliersectormix]
+- [SOURCE: CambsPayments2026-01.csv ]
+- [REF: Cambridgeshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+
+### GET /finance/supplier/expenses-ledger
+- Paid £780 to DJ DAVISON & SONS LTD (Highways Maintenance Cyclical Maintenance)
+- Paid £804 to DJ DAVISON & SONS LTD (Highways Maintenance Cyclical Maintenance)
+- Paid £870 to DJ DAVISON & SONS LTD (Highways Maintenance Cyclical Maintenance)
+- Paid £900 to DJ DAVISON & SONS LTD (Highways Maintenance Cyclical Maintenance)
+---
+- [CRUMB: transparency/expensessupplierledger]
+- [SOURCE: CambsPayments2026-01.csv ]
+- [REF: Cambridgeshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://data.cambridgeshireinsight.org.uk/sites/default/files/CambsPayments2026-01.csv ]
+
+###  GET /finance/supplier/daily-breakdown
+####  Monthly Activity Timeline
+
+| Date | Volume | Total Paid | Intensity |
+| :--- | :--- | :--- | :--- |
+| `05-Jan-26` | 1 | £780.00 | `**   ` |
+| `07-Jan-26` | 1 | £804.00 | `**   ` |
+|  `16-Jan-26` | 2 | £1,770.00 | `*****` |
+---
+- [CRUMB: transparency/expensessupplierdailybreakdown]
+- [SOURCE: CambsPayments2026-01.csv ]
+- [REF: Cambridgeshire Council Council January 2026 Expenses]
+- [SECURITY: STRICT [PII_CLEAN] | ENGINE=ApiCrumbs_v1]
+- [SOURCE URL: https://data.cambridgeshireinsight.org.uk/sites/default/files/CambsPayments2026-01.csv ]
+
+---
+Generated via ApiCrumbs Foundry. Visit https://apicrumbs.com for real-time updates.
