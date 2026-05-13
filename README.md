@@ -1,5 +1,5 @@
 ﻿# 🏛️ ApiCrumbs Archive: CAMBRIDGESHIRE-COUNTY-COUNCIL-EXPENSES-2026-01-SUPPLIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--05--12-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/1412_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--05--13-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/1412_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 1412 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 1412 printed / 48570 skipped (up-to-date).
